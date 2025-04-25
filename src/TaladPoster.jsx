@@ -1,6 +1,6 @@
 // src/components/TaladPoster.jsx
 import React from 'react';
-import posterImage from '../../assets/Talad-Poster.png';
+import posterImage from '../assets/Talad-Poster.jpg';
 import './poster.css';
 
 function Poster() {
